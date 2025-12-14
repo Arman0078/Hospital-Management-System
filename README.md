@@ -34,11 +34,11 @@ This project is developed using **Core Java** and **Maven**, with **in-memory da
 ---
 
 ## 📂 Project Structure
-HospitalManagementSystem/
- ├── HospitalManagementSystem.java
- ├── pom.xml
- ├── HospitalManagementSystem-1.0.jar
- └── README.md
+'''HospitalManagementSystem/
+    ├── HospitalManagementSystem.java # Main source file
+    ├── pom.xml # Maven configuration
+    ├── HospitalManagementSystem-1.0.jar # Executable JAR
+    └── README.md # Documentation'''
 
 ## 🎯 Project Objectives
 - Automate hospital operations
