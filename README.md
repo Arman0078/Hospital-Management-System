@@ -34,3 +34,25 @@ This project is developed using **Core Java** and **Maven**, with **in-memory da
 ---
 
 ## 📂 Project Structure
+HospitalManagementSystem/
+ ├── HospitalManagementSystem.java
+ ├── pom.xml
+ ├── HospitalManagementSystem-1.0.jar
+ └── README.md
+
+## 🎯 Project Objectives
+- Automate hospital operations
+- Manage patient and doctor records efficiently
+- Provide appointment booking and billing
+- Ensure secure access using login authentication
+- Demonstrate Java and Maven fundamentals
+
+## 🚀 Future Enhancements
+- Database integration
+- GUI development
+- Role-based access control
+- REST API implementation
+- Cloud deployment
+
+
+
