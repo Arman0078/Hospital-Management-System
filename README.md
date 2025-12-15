@@ -35,10 +35,10 @@ This project is developed using **Core Java** and **Maven**, with **in-memory da
 
 ## 📂 Project Structure
  HospitalManagementSystem/
-    ├── HospitalManagementSystem.java # Main source file
-    ├── pom.xml # Maven configuration
-    ├── HospitalManagementSystem-1.0.jar # Executable JAR
-    └── README.md # Documentation 
+  - HospitalManagementSystem.java # Main source file
+  - pom.xml # Maven configuration
+  - HospitalManagementSystem-1.0.jar # Executable JAR
+  - README.md # Documentation 
 
 ---
 
