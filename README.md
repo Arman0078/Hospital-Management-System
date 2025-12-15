@@ -42,10 +42,11 @@ This project is developed using **Core Java** and **Maven**, with **in-memory da
 
 ---
 
-##🔐 Login Credentials
+## 🔐 Login Credentials
 - Username: admin
 - Password: admin123
 
+---
 
 ## 🎯 Project Objectives
 - Automate hospital operations
