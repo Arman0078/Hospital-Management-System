@@ -1,1 +1,55 @@
+# ========================
+# Text files and line endings
+# ========================
+# Normalize line endings for all text files
+* text=auto
+
+# Force LF for scripts
+*.sh text eol=lf
+*.gradle text eol=lf
+
+# Force CRLF for Windows batch files
+*.bat text eol=crlf
+
+# ========================
+# Binary files
+# ========================
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.jar binary
+*.war binary
+*.zip binary
+*.exe binary
+*.dll binary
+
+# ========================
+# Java files
+# ========================
+*.java text
+*.xml text
+*.properties text
+*.html text
+*.css text
+*.js text
+
+# ========================
+# IDE / editor-specific files
+# ========================
+# IntelliJ IDEA
+*.iml binary
+.idea/** binary
+
+# Eclipse
+*.classpath text
+*.project text
+*.settings/** binary
+
+# VS Code
+.vscode/** binary
+
+# Maven specific
+pom.xml text
 
